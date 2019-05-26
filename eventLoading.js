@@ -9,7 +9,7 @@ function loadEvents(){
     var user_calendars = [], user_locations = [], events = [], newEvents = [];
     var st ='';
 
-    jQuery.getJSON('python//web//users//' + 'user5' + '.json', function(data){
+    jQuery.getJSON('python//web//users//' + username + '.json', function(data){
 
     
         userCalendars = data.user_data.sub_calendars;
