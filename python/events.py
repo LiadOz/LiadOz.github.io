@@ -93,6 +93,9 @@ class EventTracker:
         self.event_dict = {}
         read = self.read_event_tracker(self.file_name)
         if read is None:
+            subloc = self.get_all_subscriptions_and_locations()
+            self.available_calendars = subloc[0]
+            self.available_locations = subloc[1]
             return
 
         self.sub_calendars = read['user_data']['sub_calendars']
