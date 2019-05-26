@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function() {
   calendar = new FullCalendar.Calendar(calendarEl, {
     plugins: [ 'interaction', 'dayGrid', 'list'],
     defaultView: 'dayGridMonth',
-    aspectRatio: 2,
+    aspectRatio: 2.2,
     views: {
       dayGridMonth: {
         eventLimit: true

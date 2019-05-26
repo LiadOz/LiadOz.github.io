@@ -55,23 +55,17 @@ function loadEvents(){
 
 //Shows information about user in the sidebar.
 function showProps(calendars, locations){
-    sideBar = document.getElementById("sideBar")
+    sideBar = document.getElementById("my-sidebar-content")
 
-    var st = '<div>'
-    st += '<div class="list-group">'
-    st+= '<li class="list-group-item list-group-item-primary">Subscriptions</li>'
+    var st = ''
     calendars.forEach(element => {
-        st+= `<li class="list-group-item list-group-item-secondary">${element}</li>`
+        st+= `<li class="list-group-item list-group-item-action bg-light">${element}</li>`
     });
-    st+='</div>'
-    st+='<li class="list-group-item list-group-item-primary">Locations</li>'
-    st += '<div class="list-group">'
-    locations.forEach(element => {
-        st+= `<li class="list-group-item list-group-item-secondary">${element}</li>`
-    });
-    st+='</div>'
 
-    st+='</div>'
+    locations.forEach(element => {
+        st+= `<li class="list-group-item list-group-item-action bg-light">${element}</li>`
+    });
+
     sideBar.innerHTML = st
 }
 
