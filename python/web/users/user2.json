@@ -1,0 +1,320 @@
+{
+    "user_data": {
+        "sub_calendars": [
+            "video_games"
+        ],
+        "sub_locations": [
+            "poland",
+            "worldwide",
+            "united states of america"
+        ]
+    },
+    "events": {
+        "video_games": [
+            {
+                "title": "Pathologic 2",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "video_games",
+                "date": [
+                    2019,
+                    5,
+                    23,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Vambrace: Cold Soul",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "video_games",
+                "date": [
+                    2019,
+                    5,
+                    28,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Biomutant",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "video_games",
+                "date": [
+                    2019,
+                    6,
+                    10,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Super Mario Maker 2",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "video_games",
+                "date": [
+                    2019,
+                    6,
+                    28,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "F1 2019",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "video_games",
+                "date": [
+                    2019,
+                    6,
+                    28,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Wolfenstein: Youngblood",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "video_games",
+                "date": [
+                    2019,
+                    7,
+                    26,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Madden NFL 20",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "video_games",
+                "date": [
+                    2019,
+                    8,
+                    2,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Shenmue III",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "video_games",
+                "date": [
+                    2019,
+                    8,
+                    27,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Astral Chain",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "video_games",
+                "date": [
+                    2019,
+                    8,
+                    30,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Apsulov: End of Gods",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "video_games",
+                "date": [
+                    2019,
+                    9,
+                    1,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Borderlands 3",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "video_games",
+                "date": [
+                    2019,
+                    9,
+                    13,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Tom Clancy's Ghost Recon Breakpoint",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "video_games",
+                "date": [
+                    2019,
+                    10,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "x2Roulette",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "video_games",
+                "date": [
+                    2019,
+                    10,
+                    5,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Star Wars Jedi: Fallen Order",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "video_games",
+                "date": [
+                    2019,
+                    11,
+                    15,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "System Shock",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "video_games",
+                "date": [
+                    2020,
+                    1,
+                    1,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Genesis Alpha One",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "video_games",
+                "date": [
+                    2020,
+                    1,
+                    1,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Vampire: The Masquerade \u2013 Bloodlines 2",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "video_games",
+                "date": [
+                    2020,
+                    1,
+                    1,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Predator: Hunting Grounds",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "video_games",
+                "date": [
+                    2020,
+                    1,
+                    1,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "The Donnerwald Experiment",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "video_games",
+                "date": [
+                    2020,
+                    10,
+                    30,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            }
+        ]
+    }
+}

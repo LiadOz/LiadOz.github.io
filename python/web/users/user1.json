@@ -1,0 +1,2137 @@
+{
+    "user_data": {
+        "sub_calendars": [
+            "all_entries"
+        ],
+        "sub_locations": [
+            "worldwide",
+            "germany"
+        ],
+        "available_calendars": [
+            "elections",
+            "video_games",
+            "movies"
+        ],
+        "available_locations": [
+            "argentina",
+            "australia",
+            "austria",
+            "costa rica",
+            "croatia",
+            "denmark",
+            "europe",
+            "france",
+            "greece",
+            "guatemala",
+            "iceland",
+            "indonesia",
+            "japan",
+            "madagascar",
+            "netherlands",
+            "new zealand",
+            "poland",
+            "portugal",
+            "romania",
+            "russia",
+            "singapore",
+            "south korea",
+            "spain",
+            "sri lanka",
+            "sweden",
+            "taiwan",
+            "ukraine",
+            "united kingdom",
+            "united states of america",
+            "zurich film festival"
+        ]
+    },
+    "events": {
+        "elections": [
+            {
+                "title": "2019 Rostock mayoral election",
+                "description": "",
+                "location": "germany",
+                "ev_type": "elections",
+                "date": [
+                    2019,
+                    5,
+                    26,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            }
+        ],
+        "video_games": [
+            {
+                "title": "Pathologic 2",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "video_games",
+                "date": [
+                    2019,
+                    5,
+                    23,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Vambrace: Cold Soul",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "video_games",
+                "date": [
+                    2019,
+                    5,
+                    28,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Biomutant",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "video_games",
+                "date": [
+                    2019,
+                    6,
+                    10,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Super Mario Maker 2",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "video_games",
+                "date": [
+                    2019,
+                    6,
+                    28,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "F1 2019",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "video_games",
+                "date": [
+                    2019,
+                    6,
+                    28,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Wolfenstein: Youngblood",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "video_games",
+                "date": [
+                    2019,
+                    7,
+                    26,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Madden NFL 20",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "video_games",
+                "date": [
+                    2019,
+                    8,
+                    2,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Shenmue III",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "video_games",
+                "date": [
+                    2019,
+                    8,
+                    27,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Astral Chain",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "video_games",
+                "date": [
+                    2019,
+                    8,
+                    30,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Apsulov: End of Gods",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "video_games",
+                "date": [
+                    2019,
+                    9,
+                    1,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Borderlands 3",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "video_games",
+                "date": [
+                    2019,
+                    9,
+                    13,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Tom Clancy's Ghost Recon Breakpoint",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "video_games",
+                "date": [
+                    2019,
+                    10,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "x2Roulette",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "video_games",
+                "date": [
+                    2019,
+                    10,
+                    5,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Star Wars Jedi: Fallen Order",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "video_games",
+                "date": [
+                    2019,
+                    11,
+                    15,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "System Shock",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "video_games",
+                "date": [
+                    2020,
+                    1,
+                    1,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Genesis Alpha One",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "video_games",
+                "date": [
+                    2020,
+                    1,
+                    1,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Vampire: The Masquerade \u2013 Bloodlines 2",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "video_games",
+                "date": [
+                    2020,
+                    1,
+                    1,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Predator: Hunting Grounds",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "video_games",
+                "date": [
+                    2020,
+                    1,
+                    1,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "The Donnerwald Experiment",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "video_games",
+                "date": [
+                    2020,
+                    10,
+                    30,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            }
+        ],
+        "movies": [
+            {
+                "title": "The Tomorrow Man",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    5,
+                    22,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Breathing Life Into Stone",
+                "description": "",
+                "location": "germany",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    5,
+                    23,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Sunset over Hollywood",
+                "description": "",
+                "location": "germany",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    5,
+                    23,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Blown Away \u2013 Music, Miles and Magic",
+                "description": "",
+                "location": "germany",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    5,
+                    23,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Aladdin",
+                "description": "",
+                "location": "germany",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    5,
+                    23,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Edie",
+                "description": "",
+                "location": "germany",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    5,
+                    23,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Lord of the Toys",
+                "description": "",
+                "location": "germany",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    5,
+                    23,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "All My Loving",
+                "description": "",
+                "location": "germany",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    5,
+                    23,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "John Wick: Chapter 3 \u2013 Parabellum",
+                "description": "",
+                "location": "germany",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    5,
+                    23,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "The Kid",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    5,
+                    23,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "The Devil We Know",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    5,
+                    23,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Brightburn",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    5,
+                    24,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "General Commander",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    5,
+                    28,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Ma",
+                "description": "",
+                "location": "germany",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    5,
+                    30,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "I Do Not Care If We Go Down in History as Barbarians",
+                "description": "",
+                "location": "germany",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    5,
+                    30,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "The Artist & The Pervert",
+                "description": "",
+                "location": "germany",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    5,
+                    30,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Peter Lindbergh - Women's Stories",
+                "description": "",
+                "location": "germany",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    5,
+                    30,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "High Life",
+                "description": "",
+                "location": "germany",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    5,
+                    30,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "The Scent of Oranges",
+                "description": "",
+                "location": "germany",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    5,
+                    30,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Roads",
+                "description": "",
+                "location": "germany",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    5,
+                    30,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Godzilla: King of the Monsters",
+                "description": "",
+                "location": "germany",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    5,
+                    30,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Bad Boys 4",
+                "description": "",
+                "location": "germany",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    5,
+                    30,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Rocketman",
+                "description": "",
+                "location": "germany",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    5,
+                    30,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Missing Link",
+                "description": "",
+                "location": "germany",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    5,
+                    30,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Domino",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    5,
+                    31,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Bharat",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    6,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Non-Fiction",
+                "description": "",
+                "location": "germany",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    6,
+                    6,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Push",
+                "description": "",
+                "location": "germany",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    6,
+                    6,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "War of Art",
+                "description": "",
+                "location": "germany",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    6,
+                    6,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Burning",
+                "description": "",
+                "location": "germany",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    6,
+                    6,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Fuck Fame",
+                "description": "",
+                "location": "germany",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    6,
+                    13,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Berlin, I Love You",
+                "description": "",
+                "location": "germany",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    6,
+                    13,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Exhibition on Screen: Van Gogh and Japan",
+                "description": "",
+                "location": "germany",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    6,
+                    16,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Long Shot",
+                "description": "",
+                "location": "germany",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    6,
+                    20,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Est\u00e1 todo bien",
+                "description": "",
+                "location": "germany",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    6,
+                    20,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Happy Lamento",
+                "description": "",
+                "location": "germany",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    6,
+                    20,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Inna de Yard - The Soul of Jamaica",
+                "description": "",
+                "location": "germany",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    6,
+                    20,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Super Peace Love Amour",
+                "description": "",
+                "location": "germany",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    6,
+                    20,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Komali",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    6,
+                    21,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Aren't You Happy?",
+                "description": "",
+                "location": "germany",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    6,
+                    27,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Sink or Swim",
+                "description": "",
+                "location": "germany",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    6,
+                    27,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "They Shall Not Grow Old",
+                "description": "",
+                "location": "germany",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    6,
+                    27,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Mamacita",
+                "description": "",
+                "location": "germany",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    6,
+                    27,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Room for Rent",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    6,
+                    30,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Annabelle Comes Home",
+                "description": "",
+                "location": "germany",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    7,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Caviar",
+                "description": "",
+                "location": "germany",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    7,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Out for Vengeance",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    7,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Virus",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    7,
+                    5,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Yesterday",
+                "description": "",
+                "location": "germany",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    7,
+                    11,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Stuber",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    7,
+                    12,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "21 Bridges",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    7,
+                    12,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "7500",
+                "description": "",
+                "location": "germany",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    7,
+                    18,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "21 Bridges",
+                "description": "",
+                "location": "germany",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    7,
+                    25,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Fast & Furious Presents: Hobbs & Shaw",
+                "description": "",
+                "location": "germany",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    8,
+                    1,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Spring Break '83",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    8,
+                    2,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Dora and the Lost City of Gold",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    8,
+                    9,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "I Was at Home, But",
+                "description": "",
+                "location": "germany",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    8,
+                    15,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Brahmastra",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    8,
+                    15,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Rangeela",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    8,
+                    15,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Good Boys",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    8,
+                    16,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Abigail",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    8,
+                    22,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Crawl",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    8,
+                    23,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Late Night",
+                "description": "",
+                "location": "germany",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    8,
+                    29,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Zeroville",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    9,
+                    6,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Gut gegen Nordwind",
+                "description": "",
+                "location": "germany",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    9,
+                    12,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Hustlers",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    9,
+                    13,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "India King of Martial Arts",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    9,
+                    20,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Midsommar",
+                "description": "",
+                "location": "germany",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    9,
+                    26,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Spies in Disguise",
+                "description": "",
+                "location": "germany",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    10,
+                    10,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "The Goldfinch",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    10,
+                    11,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Torrance",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    10,
+                    18,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "The Hunt (2019 film)",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    10,
+                    18,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Untitled Terminator sequel",
+                "description": "",
+                "location": "germany",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    10,
+                    24,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Terminator: Dark Fate",
+                "description": "",
+                "location": "germany",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    10,
+                    24,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Bad Trip (film)",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    10,
+                    25,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Houseful 4",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    10,
+                    26,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "La Belle \u00c9poque",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    11,
+                    6,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "The Good Liar",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    11,
+                    15,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Last Christmas",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    11,
+                    15,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "A Beautiful Day in the Neighborhood",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    11,
+                    22,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Project 'Gemini'",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    11,
+                    28,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Wicked",
+                "description": "",
+                "location": "germany",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    12,
+                    19,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Star Wars: The Rise of Skywalker",
+                "description": "",
+                "location": "germany",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    12,
+                    19,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Death on the Nile",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    12,
+                    20,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Cats",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    12,
+                    20,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Fair and Balanced",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    12,
+                    20,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Super Intelligence",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    12,
+                    25,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Call of the Wild",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    12,
+                    25,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Union of Salvation",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    12,
+                    26,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Looking for Life",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    12,
+                    31,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Limited Partners",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "movies",
+                "date": [
+                    2020,
+                    1,
+                    10,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "1917",
+                "description": "",
+                "location": "germany",
+                "ev_type": "movies",
+                "date": [
+                    2020,
+                    1,
+                    16,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Bad Boys for Life",
+                "description": "",
+                "location": "germany",
+                "ev_type": "movies",
+                "date": [
+                    2020,
+                    1,
+                    16,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Run",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "movies",
+                "date": [
+                    2020,
+                    1,
+                    24,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Little Women",
+                "description": "",
+                "location": "germany",
+                "ev_type": "movies",
+                "date": [
+                    2020,
+                    1,
+                    30,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Birds of Prey",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "movies",
+                "date": [
+                    2020,
+                    2,
+                    7,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "The Photograph (2020 film)",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "movies",
+                "date": [
+                    2020,
+                    2,
+                    14,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Just Mercy",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "movies",
+                "date": [
+                    2020,
+                    2,
+                    17,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "The Lovebirds",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "movies",
+                "date": [
+                    2020,
+                    3,
+                    6,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Playing with Fire",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "movies",
+                "date": [
+                    2020,
+                    3,
+                    20,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Greyhound",
+                "description": "",
+                "location": "germany",
+                "ev_type": "movies",
+                "date": [
+                    2020,
+                    5,
+                    21,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Free Guy",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "movies",
+                "date": [
+                    2020,
+                    7,
+                    3,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "RRR",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "movies",
+                "date": [
+                    2020,
+                    7,
+                    30,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "The SpongeBob Movie 3: It's a Wonderful Sponge",
+                "description": "",
+                "location": "germany",
+                "ev_type": "movies",
+                "date": [
+                    2020,
+                    8,
+                    13,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Monster Hunter",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "movies",
+                "date": [
+                    2020,
+                    9,
+                    4,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "The Witches",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "movies",
+                "date": [
+                    2020,
+                    10,
+                    16,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Bios",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "movies",
+                "date": [
+                    2020,
+                    10,
+                    20,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Dune",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "movies",
+                "date": [
+                    2020,
+                    11,
+                    20,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "West Side Story (2020 film)",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "movies",
+                "date": [
+                    2020,
+                    12,
+                    18,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Fruitful Mold",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "movies",
+                "date": [
+                    2020,
+                    12,
+                    31,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            }
+        ]
+    },
+    "aux_data": {}
+}
