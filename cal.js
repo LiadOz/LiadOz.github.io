@@ -1,4 +1,4 @@
-var calendar
+var calendar, firstFlag = true
 
 //initial render of the calendar
 document.addEventListener('DOMContentLoaded', function() {
@@ -18,7 +18,6 @@ document.addEventListener('DOMContentLoaded', function() {
       right: 'dayGridMonth,listMonth'
     },
   });
-  calendar.render();
 });
 
 function updateCalendar(newEvents) {  
@@ -36,6 +35,10 @@ function removeAllEvents(){
 function addEvents(newEvents){ 
   for(var i = 0; i < newEvents.length; i++){
     calendar.addEventSource(newEvents[i])
+  }
+  if(firstFlag){
+    firstFlag = false
+    calendar.render()
   }
 }
 

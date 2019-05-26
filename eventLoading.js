@@ -1,12 +1,13 @@
 //the json does not check if the file exist beforehand, could be an issue later.
-loadEvents()
+
+var userCalendars = [], userLocations = [], availableCalendars = [], availableLocations = []
 //Loads the events into the calendar in from json file.
 function loadEvents(){
 
     const COLORS = [['blue','white'], ['red','white'], ['yellow','black']]
     var username = document.getElementById('userInput').value;
 
-    var user_calendars = [], user_locations = [], events = [], newEvents = [];
+    var events = [], newEvents = [];
     var st ='';
 
     jQuery.getJSON('python//web//users//' + username + '.json', function(data){
@@ -14,6 +15,8 @@ function loadEvents(){
     
         userCalendars = data.user_data.sub_calendars;
         userLocations = data.user_data.sub_locations;
+        availableCalendars = data.user_data.available_calendars
+        availableLocations = data.user_data.available_locations
         events = data.events;
 
         var colorIndex = 0
@@ -47,24 +50,44 @@ function loadEvents(){
 
         console.log(newEvents)
         updateCalendar(newEvents);
-        showProps(userCalendars, userLocations)
+        document.getElementById('description').innerHTML = ''
+        showProps()
         
     });
         
 }
 
 //Shows information about user in the sidebar.
-function showProps(calendars, locations){
+function showProps(){
     sideBar = document.getElementById("my-sidebar-content")
 
-    var st = ''
-    calendars.forEach(element => {
+    var st = '<a href="#calendarsSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle list-group-item">Calendars</a>'
+    st += '<ul class="collapse list-unstyled" id="calendarsSubmenu">'
+    userCalendars.forEach(element => {
         st+= `<li class="list-group-item list-group-item-action bg-light">${element}</li>`
     });
+    st+= '</ul>'
+    st+= '<a href="#locationsSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle list-group-item">Locations</a>'
+    st += '<ul class="collapse list-unstyled" id="locationsSubmenu">'
+    userLocations.forEach(element => {
+        st+= `<li class="list-group-item list-group-item-action bg-light">${element}</li>`
+    });
+    st+= '</ul>'
 
-    locations.forEach(element => {
+    //Showing the available subscriptions and calendars
+    st+= '<a href="#avcalendarsSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle list-group-item">Add Calendar</a>'
+    st += '<ul class="collapse list-unstyled" id="avcalendarsSubmenu">'
+    availableCalendars.forEach(element => {
         st+= `<li class="list-group-item list-group-item-action bg-light">${element}</li>`
     });
+    st+= '</ul>'
+    
+    st+= '<a href="#avlocationsSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle list-group-item">Add Location</a>'
+    st += '<ul class="collapse list-unstyled" id="avlocationsSubmenu">'
+    availableLocations.forEach(element => {
+        st+= `<li class="list-group-item list-group-item-action bg-light">${element}</li>`
+    });
+    st+= '</ul>'
 
     sideBar.innerHTML = st
 }
