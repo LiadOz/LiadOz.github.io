@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0e0394d5-043e-4c8c-a8ce-9090582bc3e4" name="Default Changelist" comment="" />
+    <list default="true" id="0e0394d5-043e-4c8c-a8ce-9090582bc3e4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/query_events.py" beforeDir="false" afterPath="$PROJECT_DIR$/query_events.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/users/all_events.json" beforeDir="false" afterPath="$PROJECT_DIR$/web/users/all_events.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/users/user1.json" beforeDir="false" afterPath="$PROJECT_DIR$/web/users/user1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/users/user2.json" beforeDir="false" afterPath="$PROJECT_DIR$/web/users/user2.json" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,26 +24,32 @@
         <entry file="file://$PROJECT_DIR$/events.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
+              <caret lean-forward="true" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
-                <element signature="e#205#364#0" />
-                <element signature="e#397#589#0" />
-                <element signature="e#1493#1633#0" />
-                <element signature="e#1508#1690#0" />
-                <element signature="e#2020#2160#0" />
-                <element signature="e#1974#2231#0" />
-                <element signature="e#2251#3076#0" />
-                <element signature="e#3254#4386#0" />
-                <element signature="e#2504#2786#0" />
-                <element signature="e#2830#3092#0" />
-                <element signature="e#3131#3889#0" />
-                <element signature="e#3936#4734#0" />
-                <element signature="e#6330#7161#0" />
-                <element signature="e#5412#5577#0" />
-                <element signature="e#5614#5772#0" />
-                <element signature="e#7008#7344#0" />
-                <element signature="e#7402#7978#0" />
-                <element signature="e#8483#8672#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/query_events.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="622">
+              <caret line="38" column="43" selection-start-line="38" selection-start-column="43" selection-end-line="38" selection-end-column="43" />
+              <folding>
+                <element signature="e#0#45#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/users/all_events.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-162">
+              <folding>
+                <element signature="n#!!block;n#events#0;n#!!top" />
               </folding>
             </state>
           </provider>
@@ -45,29 +58,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/users/user1.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="940">
-              <caret line="53" column="39" lean-forward="true" selection-start-line="53" selection-start-column="39" selection-end-line="53" selection-end-column="39" />
+            <state relative-caret-position="7180">
+              <caret line="359" column="39" selection-start-line="359" selection-start-column="39" selection-end-line="359" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/users/all_events.json">
+        <entry file="file://$PROJECT_DIR$/web/users/user2.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="3" column="22" lean-forward="true" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/query_events.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="16" column="75" selection-start-line="16" selection-start-column="75" selection-end-line="16" selection-end-column="75" />
-              <folding>
-                <element signature="e#0#45#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-9">
+              <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -93,12 +94,17 @@
       <find>United States Of America</find>
       <find>Germany</find>
       <find>user</find>
+      <find>video_games</find>
     </findStrings>
     <replaceStrings>
       <replace>ev</replace>
       <replace>united states of america</replace>
       <replace>germany</replace>
+      <replace>video games</replace>
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -107,13 +113,13 @@
         <option value="$PROJECT_DIR$/info.py" />
         <option value="$PROJECT_DIR$/default.json" />
         <option value="$PROJECT_DIR$/all_events.json" />
-        <option value="$PROJECT_DIR$/query_events.py" />
         <option value="$PROJECT_DIR$/user1.json" />
+        <option value="$PROJECT_DIR$/web/users/user5.json" />
+        <option value="$PROJECT_DIR$/events.py" />
+        <option value="$PROJECT_DIR$/query_events.py" />
+        <option value="$PROJECT_DIR$/web/users/all_events.json" />
         <option value="$PROJECT_DIR$/web/users/user1.json" />
         <option value="$PROJECT_DIR$/web/users/user2.json" />
-        <option value="$PROJECT_DIR$/web/users/user5.json" />
-        <option value="$PROJECT_DIR$/web/users/all_events.json" />
-        <option value="$PROJECT_DIR$/events.py" />
       </list>
     </option>
   </component>
@@ -128,33 +134,29 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="calendar" type="b2602c69:ProjectViewProjectNode" />
-              <item name="calendar" type="462c0819:PsiDirectoryNode" />
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="calendar" type="b2602c69:ProjectViewProjectNode" />
-              <item name="calendar" type="462c0819:PsiDirectoryNode" />
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="calendar" type="b2602c69:ProjectViewProjectNode" />
-              <item name="calendar" type="462c0819:PsiDirectoryNode" />
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
               <item name="users" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="calendar" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -295,37 +297,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/user1.json">
+    <entry file="file://$PROJECT_DIR$/user1.json" />
+    <entry file="file://$PROJECT_DIR$/web/users/user3.json" />
+    <entry file="file://$PROJECT_DIR$/web/users/user4.json" />
+    <entry file="file://$PROJECT_DIR$/web/users/user5.json" />
+    <entry file="file://$PROJECT_DIR$/web/users/user1.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="443">
-          <caret line="739" column="40" lean-forward="true" selection-start-line="739" selection-start-column="40" selection-end-line="739" selection-end-column="40" />
+        <state relative-caret-position="7180">
+          <caret line="359" column="39" selection-start-line="359" selection-start-column="39" selection-end-line="359" selection-end-column="39" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/users/user2.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/users/user3.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/users/user4.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/users/user5.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="35514">
-          <caret line="1796" column="36" selection-start-line="1796" selection-start-column="36" selection-end-line="1796" selection-end-column="36" />
+        <state relative-caret-position="-9">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/query_events.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" column="75" selection-start-line="16" selection-start-column="75" selection-end-line="16" selection-end-column="75" />
+        <state relative-caret-position="622">
+          <caret line="38" column="43" selection-start-line="38" selection-start-column="43" selection-end-line="38" selection-end-column="43" />
           <folding>
             <element signature="e#0#45#0" expanded="true" />
           </folding>
@@ -334,41 +327,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/users/all_events.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="22" lean-forward="true" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/users/user1.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="940">
-          <caret line="53" column="39" lean-forward="true" selection-start-line="53" selection-start-column="39" selection-end-line="53" selection-end-column="39" />
+        <state relative-caret-position="-162">
+          <folding>
+            <element signature="n#!!block;n#events#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/events.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
+          <caret lean-forward="true" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
-            <element signature="e#205#364#0" />
-            <element signature="e#397#589#0" />
-            <element signature="e#1493#1633#0" />
-            <element signature="e#1508#1690#0" />
-            <element signature="e#2020#2160#0" />
-            <element signature="e#1974#2231#0" />
-            <element signature="e#2251#3076#0" />
-            <element signature="e#3254#4386#0" />
-            <element signature="e#2504#2786#0" />
-            <element signature="e#2830#3092#0" />
-            <element signature="e#3131#3889#0" />
-            <element signature="e#3936#4734#0" />
-            <element signature="e#6330#7161#0" />
-            <element signature="e#5412#5577#0" />
-            <element signature="e#5614#5772#0" />
-            <element signature="e#7008#7344#0" />
-            <element signature="e#7402#7978#0" />
-            <element signature="e#8483#8672#0" />
           </folding>
         </state>
       </provider>
