@@ -460,12 +460,12 @@
                 ]
             }
         ],
-        "video_games": [
+        "video games": [
             {
                 "title": "Vambrace: Cold Soul",
                 "description": "",
                 "location": "worldwide",
-                "ev_type": "video_games",
+                "ev_type": "video games",
                 "date": [
                     2019,
                     5,
@@ -481,7 +481,7 @@
                 "title": "Biomutant",
                 "description": "",
                 "location": "worldwide",
-                "ev_type": "video_games",
+                "ev_type": "video games",
                 "date": [
                     2019,
                     6,
@@ -497,7 +497,7 @@
                 "title": "Super Mario Maker 2",
                 "description": "",
                 "location": "worldwide",
-                "ev_type": "video_games",
+                "ev_type": "video games",
                 "date": [
                     2019,
                     6,
@@ -513,7 +513,7 @@
                 "title": "F1 2019",
                 "description": "",
                 "location": "worldwide",
-                "ev_type": "video_games",
+                "ev_type": "video games",
                 "date": [
                     2019,
                     6,
@@ -529,7 +529,7 @@
                 "title": "Kill la Kill: IF",
                 "description": "",
                 "location": "japan",
-                "ev_type": "video_games",
+                "ev_type": "video games",
                 "date": [
                     2019,
                     7,
@@ -545,7 +545,7 @@
                 "title": "Kill la Kill: IF",
                 "description": "",
                 "location": "united states of america",
-                "ev_type": "video_games",
+                "ev_type": "video games",
                 "date": [
                     2019,
                     7,
@@ -561,7 +561,7 @@
                 "title": "Kill la Kill: IF",
                 "description": "",
                 "location": "europe",
-                "ev_type": "video_games",
+                "ev_type": "video games",
                 "date": [
                     2019,
                     7,
@@ -577,7 +577,7 @@
                 "title": "Wolfenstein: Youngblood",
                 "description": "",
                 "location": "worldwide",
-                "ev_type": "video_games",
+                "ev_type": "video games",
                 "date": [
                     2019,
                     7,
@@ -593,7 +593,7 @@
                 "title": "Madden NFL 20",
                 "description": "",
                 "location": "worldwide",
-                "ev_type": "video_games",
+                "ev_type": "video games",
                 "date": [
                     2019,
                     8,
@@ -609,7 +609,7 @@
                 "title": "Shenmue III",
                 "description": "",
                 "location": "worldwide",
-                "ev_type": "video_games",
+                "ev_type": "video games",
                 "date": [
                     2019,
                     8,
@@ -625,7 +625,7 @@
                 "title": "Astral Chain",
                 "description": "",
                 "location": "worldwide",
-                "ev_type": "video_games",
+                "ev_type": "video games",
                 "date": [
                     2019,
                     8,
@@ -641,7 +641,7 @@
                 "title": "Apsulov: End of Gods",
                 "description": "",
                 "location": "worldwide",
-                "ev_type": "video_games",
+                "ev_type": "video games",
                 "date": [
                     2019,
                     9,
@@ -657,7 +657,7 @@
                 "title": "Borderlands 3",
                 "description": "",
                 "location": "worldwide",
-                "ev_type": "video_games",
+                "ev_type": "video games",
                 "date": [
                     2019,
                     9,
@@ -673,7 +673,7 @@
                 "title": "Tom Clancy's Ghost Recon Breakpoint",
                 "description": "",
                 "location": "worldwide",
-                "ev_type": "video_games",
+                "ev_type": "video games",
                 "date": [
                     2019,
                     10,
@@ -689,7 +689,7 @@
                 "title": "x2Roulette",
                 "description": "",
                 "location": "worldwide",
-                "ev_type": "video_games",
+                "ev_type": "video games",
                 "date": [
                     2019,
                     10,
@@ -705,7 +705,7 @@
                 "title": "Persona 5 Royal",
                 "description": "",
                 "location": "japan",
-                "ev_type": "video_games",
+                "ev_type": "video games",
                 "date": [
                     2019,
                     10,
@@ -721,7 +721,7 @@
                 "title": "Star Wars Jedi: Fallen Order",
                 "description": "",
                 "location": "worldwide",
-                "ev_type": "video_games",
+                "ev_type": "video games",
                 "date": [
                     2019,
                     11,
@@ -737,7 +737,7 @@
                 "title": "System Shock",
                 "description": "",
                 "location": "worldwide",
-                "ev_type": "video_games",
+                "ev_type": "video games",
                 "date": [
                     2020,
                     1,
@@ -753,7 +753,7 @@
                 "title": "Genesis Alpha One",
                 "description": "",
                 "location": "worldwide",
-                "ev_type": "video_games",
+                "ev_type": "video games",
                 "date": [
                     2020,
                     1,
@@ -769,7 +769,7 @@
                 "title": "Persona 5 Royal",
                 "description": "",
                 "location": "united states of america",
-                "ev_type": "video_games",
+                "ev_type": "video games",
                 "date": [
                     2020,
                     1,
@@ -785,7 +785,7 @@
                 "title": "Persona 5 Royal",
                 "description": "",
                 "location": "europe",
-                "ev_type": "video_games",
+                "ev_type": "video games",
                 "date": [
                     2020,
                     1,
@@ -801,7 +801,7 @@
                 "title": "Vampire: The Masquerade \u2013 Bloodlines 2",
                 "description": "",
                 "location": "worldwide",
-                "ev_type": "video_games",
+                "ev_type": "video games",
                 "date": [
                     2020,
                     1,
@@ -817,7 +817,7 @@
                 "title": "Predator: Hunting Grounds",
                 "description": "",
                 "location": "worldwide",
-                "ev_type": "video_games",
+                "ev_type": "video games",
                 "date": [
                     2020,
                     1,
@@ -833,7 +833,7 @@
                 "title": "The Donnerwald Experiment",
                 "description": "",
                 "location": "worldwide",
-                "ev_type": "video_games",
+                "ev_type": "video games",
                 "date": [
                     2020,
                     10,
@@ -3316,7 +3316,7 @@
     "aux_data": {
         "all_subscriptions": [
             "elections",
-            "video_games",
+            "video games",
             "movies"
         ],
         "all_locations": [
