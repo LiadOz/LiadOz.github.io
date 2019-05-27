@@ -36,7 +36,7 @@ def query_video_games():
 
     """
     games = get_events(q_site, query)
-    return create_event_list(games, 'video_games')
+    return create_event_list(games, 'video games')
 
 
 def query_elections():
