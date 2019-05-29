@@ -98,6 +98,22 @@
                 ]
             },
             {
+                "title": "Da Capo 4",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "video games",
+                "date": [
+                    2019,
+                    5,
+                    31,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
                 "title": "Biomutant",
                 "description": "",
                 "location": "worldwide",
@@ -980,6 +996,22 @@
                 ]
             },
             {
+                "title": "Where We Belong",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    6,
+                    20,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
                 "title": "Komali",
                 "description": "",
                 "location": "worldwide",
@@ -1221,6 +1253,22 @@
             },
             {
                 "title": "Fast & Furious Presents: Hobbs & Shaw",
+                "description": "",
+                "location": "germany",
+                "ev_type": "movies",
+                "date": [
+                    2019,
+                    8,
+                    1,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "fast & furious presents: hobbs & shaw",
                 "description": "",
                 "location": "germany",
                 "ev_type": "movies",
@@ -1892,6 +1940,22 @@
                 ]
             },
             {
+                "title": "Gretel and Hansel",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "movies",
+                "date": [
+                    2020,
+                    1,
+                    31,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
                 "title": "Birds of Prey",
                 "description": "",
                 "location": "worldwide",
@@ -1956,6 +2020,22 @@
                 ]
             },
             {
+                "title": "The Invisible Man",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "movies",
+                "date": [
+                    2020,
+                    3,
+                    13,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
                 "title": "Playing with Fire",
                 "description": "",
                 "location": "worldwide",
@@ -1964,6 +2044,38 @@
                     2020,
                     3,
                     20,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "G.I. Joe: Snake Eyes",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "movies",
+                "date": [
+                    2020,
+                    3,
+                    27,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Escape Room 2",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "movies",
+                "date": [
+                    2020,
+                    4,
+                    17,
                     0,
                     0,
                     0,
@@ -2004,6 +2116,38 @@
                 ]
             },
             {
+                "title": "Minions: The Rise of Gru",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "movies",
+                "date": [
+                    2020,
+                    7,
+                    3,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "The Purge 5",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "movies",
+                "date": [
+                    2020,
+                    7,
+                    10,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
                 "title": "RRR",
                 "description": "",
                 "location": "worldwide",
@@ -2012,6 +2156,22 @@
                     2020,
                     7,
                     30,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Infinite",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "movies",
+                "date": [
+                    2020,
+                    8,
+                    7,
                     0,
                     0,
                     0,
@@ -2116,7 +2276,39 @@
                 ]
             },
             {
+                "title": "Coming 2 America",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "movies",
+                "date": [
+                    2020,
+                    12,
+                    18,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
                 "title": "Fruitful Mold",
+                "description": "",
+                "location": "worldwide",
+                "ev_type": "movies",
+                "date": [
+                    2020,
+                    12,
+                    31,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            {
+                "title": "Mike & Fred vs the Dead",
                 "description": "",
                 "location": "worldwide",
                 "ev_type": "movies",

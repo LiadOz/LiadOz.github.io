@@ -18,7 +18,7 @@
   <script src='fullcalendar/packages/list/main.js'></script>
   <script src='fullcalendar/packages/interaction/main.js'></script>
 
-  <script src="cal.js"></script>
+  <script src="js/calendar.js"></script>
   <title>Automatic Event Calendar</title>
 
   <!-- Bootstrap core CSS -->
@@ -26,38 +26,8 @@
 
   <!-- Custom styles for this template -->
   <link href="css/simple-sidebar.css" rel="stylesheet">
+  <link href="css/badgebox.css" rel="stylesheet">
 
-      <style type="text/css">
-        /* Hiding the checkbox, but allowing it to be focused */
-.badgebox
-{
-    opacity: 0;
-}
-
-.badgebox + .badge
-{
-    /* Move the check mark away when unchecked */
-    text-indent: -999999px;
-    /* Makes the badge's width stay the same checked and unchecked */
-	width: 27px;
-}
-
-.badgebox:focus + .badge
-{
-    /* Set something to make the badge looks focused */
-    /* This really depends on the application, in my case it was: */
-    
-    /* Adding a light border */
-    box-shadow: inset 0px 0px 5px;
-    /* Taking the difference out of the padding */
-}
-
-.badgebox:checked + .badge
-{
-    /* Move the check mark back when checked */
-	text-indent: 0;
-}
-    </style>
 
 </head>
 
@@ -130,7 +100,7 @@
   <!-- Bootstrap core JavaScript -->
   <script src="vendor/jquery/jquery.min.js"></script>
   <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="eventLoading.js"></script>
+  <script src="js/eventLoading.js"></script>
 
   <!-- Menu Toggle Script -->
   <script>
